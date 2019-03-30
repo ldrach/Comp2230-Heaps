@@ -22,14 +22,14 @@ public class Main {
     heap.add(3);
     heap.add(10);
     heap.add(14);
-
+    heap.add(25);
+    heap.add(55);
+    
     heap.print();
 
-    heap.remove();
 
-    heap.remove();
 
-    heap.print();
+
     }
 
 }
